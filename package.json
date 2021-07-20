@@ -1,0 +1,27 @@
+{
+  "name": "idscan-ts-sdk",
+  "version": "1.0.0",
+  "description": "SP SDK for connecting to OneKosmos",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oauth2:eVsr-Lk4pqY4Jcx-LmyK@git.xcijv.net/xcjiv/idscan-ts-sdk.git"
+  },
+  "keywords": [
+    "sdk",
+    "OneKosmos"
+  ],
+  "author": "Alex Rosa alex.rosa@myzenkey.com",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.3.2",
+    "axios": "^0.21.1",
+    "uuid4": "^2.0.2"
+  }
+}
