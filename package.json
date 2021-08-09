@@ -20,8 +20,8 @@
   "author": "Alex Rosa alex.rosa@myzenkey.com",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "16.3.2",
+    "@types/node": "^16.3.2",
     "axios": "0.21.1",
-    "uuid4": "2.0.2"
+    "uuid": "8.3.2"
   }
 }
