@@ -1,1 +1,1 @@
-module.export = require('./lib/payloadService');
+module.export = require('./lib/idPayload');
