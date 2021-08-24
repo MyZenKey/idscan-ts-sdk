@@ -1,2 +1,2 @@
-# idscan-ts-sdk
+# idscan-ts-sdk.
 
